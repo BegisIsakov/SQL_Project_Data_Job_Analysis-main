@@ -51,7 +51,7 @@ LIMIT 10
 * **Wide Salary Range:** Compensation for the top 10 positions spans from **$184,000 to $650,000**, highlighting significant earning potential for specialized roles.
 * **Diverse Employers:** Leading tech firms (Meta), telecommunications giants (AT&T), and financial platforms (SmartAsset) actively compete for high-level analytical talent.
 * **Job Title Variety:** Roles range from individual contributor positions (*Data Analyst*) to leadership positions (*Director of Analytics*), showing clear pathways for career growth.
-![Top Paying Roles](assets\1-top_paying_roles.png)
+![Top Paying Roles](assets/1-top_paying_roles.png)
 *Bar graph visualizing the salary for the top 10 salaries for data analysts; ChatGPT generated this graph from my SQL query results*
 ### 2. Required Skills for High-Paying Roles
 To determine the key technical requirements of top-tier positions, I joined high-salary job postings with detailed skill data. This reveals the specific toolsets and capabilities employers prioritize when offering premium compensation.
@@ -87,7 +87,7 @@ Here's the breakdown of the skills required for the top-paying data analyst jobs
 - **Core Technical Stack:** **SQL** is mandatory across all top-paying postings, closely followed by **Python**, showing that scripting and database querying are fundamental to high-compensation roles.
 - **BI & Visualization:** **Tableau** is the predominant visualization tool required by high-paying employers, appearing significantly more often than other BI software.
 - **Cloud & Big Data:** Technologies like **Snowflake**, **AWS**, **Azure**, and **Databricks** are frequently cited, indicating that modern data architecture skills correlate with premium salaries.
-![Top Paying Jobs](assets\2_paying_job.png)
+![Top Paying Jobs](assets/2_paying_job.png)
 *Bar graph visualizing the count of skills for the top 10 paying jobs for data analysts; Claude and Gemini generated this graph from my SQL query results*
 ### 3. Most In-Demand Skills for Data Analysts
 To understand market-wide hiring trends, I aggregated the total count of skill mentions across all Data Analyst job postings. This highlights the foundational tools and technologies most requested by employers overall.
